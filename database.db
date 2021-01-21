@@ -2,6 +2,7 @@
 {"cityaq1":10.01,"cityWeather1":-3.8,"nameCity1":"Berlin","time":1610361710205,"long":13.404954,"lat":52.520007,"_id":"5eTIV2dlqxO4coB7"}
 {"cityaq":{},"cityWeather":{},"nameCity":{},"time":1610303967246,"long":-0.127758,"lat":51.507351,"_id":"5hszWn3hIQvEJVBE"}
 {"cityaq1":26,"cityWeather1":5.9,"nameCity1":"Strand","time":1610361831857,"long":-0.127758,"lat":51.507351,"_id":"8HvOAlEIBAmQulgu"}
+{"cityaq1":34,"cityWeather1":29.1,"nameCity1":"Liberdade","time":1611242097647,"long":-46.633309,"lat":-23.55052,"_id":"9WAgStss22Dnpqaf"}
 {"cityaq1":10.01,"cityWeather1":-3.8,"nameCity1":"Berlin","time":1610360832692,"long":13.404954,"lat":52.520007,"_id":"Anm9p41hsxzy33pu"}
 {"cityaq1":26,"cityWeather1":5.2,"nameCity1":"Strand","time":1611238786960,"long":-0.127758,"lat":51.507351,"_id":"IapHjFYshxyfDuQa"}
 {"cityaq1":10.01,"cityWeather1":-3.8,"nameCity1":"Berlin","time":1610361710205,"long":13.404954,"lat":52.520007,"_id":"IqwekyI37XCiMUVI"}
@@ -16,9 +17,8 @@
 {"cityaq1":26,"cityWeather1":2.2,"nameCity1":"Strand","time":1610304342644,"long":-0.127758,"lat":51.507351,"_id":"dxf6Tn84KSFKgpAB"}
 {"cityaq1":10.01,"cityWeather1":1.9,"nameCity1":"Berlin","time":1611212767721,"long":13.404954,"lat":52.520007,"_id":"fRUb0ie3ZXAVAmyr"}
 {"cityaq1":10.01,"cityWeather1":-3.8,"nameCity1":"Berlin","time":1610360496863,"long":13.404954,"lat":52.520007,"_id":"lcKdifmERQGkhkbV"}
+{"cityaq1":5,"cityWeather1":6.1,"nameCity1":"San Francisco","time":1611242050881,"long":-122.419416,"lat":37.774929,"_id":"mA4FgR5Tdi8fQ92n"}
 {"cityaq1":29.06,"cityWeather1":26.6,"nameCity1":"Cooria","time":1611239923512,"long":72.877656,"lat":19.075984,"_id":"pSscoDWwnCmAkGKq"}
 {"cityaq1":10.01,"cityWeather1":2,"nameCity1":"Berlin","time":1611209452237,"long":13.404954,"lat":52.520007,"_id":"pj2T2GcJqYfuSQXz"}
 {"cityaq":{},"cityWeather":{},"nameCity":{},"time":1610303967246,"long":-0.127758,"lat":51.507351,"_id":"qHTFOTTsGcsvCdCw"}
 {"cityaq1":29.06,"cityWeather1":29.6,"nameCity1":"Cooria","time":1610304342644,"long":72.877656,"lat":19.075984,"_id":"vmRnEDO0hQICv7Sn"}
-{"cityaq1":5,"cityWeather1":6.1,"nameCity1":"San Francisco","time":1611242050881,"long":-122.419416,"lat":37.774929,"_id":"mA4FgR5Tdi8fQ92n"}
-{"cityaq1":34,"cityWeather1":29.1,"nameCity1":"Liberdade","time":1611242097647,"long":-46.633309,"lat":-23.55052,"_id":"9WAgStss22Dnpqaf"}

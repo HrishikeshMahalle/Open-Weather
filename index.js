@@ -11,7 +11,10 @@ database.loadDatabase();
 
 console.log(process.env)
 
-app.listen(3100, () => console.log('Live on 3100'));
+const port  = process.env.PORT || 3000;
+app.listen(port , ()=>{
+    console.log("Listining at 3000")
+})
 app.use(express.static('public'))
 
 app.get('/connect',(req,res) => {
